@@ -13,6 +13,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <title>Admin | Dashboard</title>
 
  <link rel="stylesheet" type="text/css" href="/css/app.css">
+
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper" id="app">
